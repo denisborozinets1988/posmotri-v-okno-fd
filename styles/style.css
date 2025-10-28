@@ -96,6 +96,10 @@ ol {
   outline: 1px solid white;
 }
 
+.search-form__label:hover .search-form__label-text {
+  text-decoration: underline;
+}
+
 .visually-hidden {
   position: absolute;
   inline-size: 1px;
